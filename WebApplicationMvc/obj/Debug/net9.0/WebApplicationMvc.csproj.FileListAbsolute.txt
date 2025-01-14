@@ -90,9 +90,10 @@ C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debu
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationMvc.props
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApplicationMvc.props
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\WebApplicationMvc.dll
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\refint\WebApplicationMvc.dll
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\WebApplicationMvc.pdb
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\WebApplicationMvc.genruntimeconfig.cache
 C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\ref\WebApplicationMvc.dll
+C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\WebApplicationMvc.sourcelink.json
+C:\Users\Administrateur\Desktop\Dev\WebApplicationMvc\WebApplicationMvc\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

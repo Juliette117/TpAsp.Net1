@@ -8,7 +8,15 @@ namespace WebApplicationMvc.Controllers
         // GET: HomeController1
         public ActionResult Index()
         {
-            return View();
+            ViewData["Message"] = "Liste des contacts";
+
+            var contact = new Models.Contact
+            {
+                Id = 1,
+                Nom = "Mr",
+                Prenom = ""
+            };
+            return View(contact);
         }
 
         // GET: HomeController1/Details/5
