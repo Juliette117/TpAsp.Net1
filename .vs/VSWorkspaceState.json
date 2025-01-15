@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplicationMvc"
   ],
+  "SelectedNode": "\\WebApplicationMvc\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }

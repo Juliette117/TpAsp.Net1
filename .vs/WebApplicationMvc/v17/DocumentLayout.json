@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Views\\Contact\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Views\\Contact\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\ajoutercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\ajoutercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Models\\Contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Views\\Contact\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplicationMvc\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Controllers\\ContactController.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AjouterContact.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Contact.cshtml",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\Contact.cshtml",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\Index.cshtml",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Controllers\\HomeController.cs",
@@ -135,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Program.cs",
@@ -143,12 +143,11 @@
               "RelativeToolTip": "WebApplicationMvc\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T09:36:43.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T09:36:43.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Models\\Contact.cs",
@@ -156,12 +155,11 @@
               "RelativeToolTip": "WebApplicationMvc\\Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T09:08:43.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T09:08:43.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\Create.cshtml",

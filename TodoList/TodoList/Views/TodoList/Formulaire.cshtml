@@ -1,0 +1,17 @@
+﻿@model Tache
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>Ajouter tâche</h1>
+
+<form method="post">
+    <label>Tâche à ajouter : </label>
+    <input asp-for="Titre" />
+    <span asp-validation-for="Titre"></span>
+    <label>Description de la tâche : </label>
+    <input asp-for="Description" />
+    <span asp-validation-for="Description"></span>
+
+    <button type="submit">Ajouter</button>
+</form>
