@@ -1,32 +1,43 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebApplicationMvc.Models;
 
 namespace WebApplicationMvc.Controllers
 {
     public class ContactController : Controller
     {
         // GET: HomeController1
-        public ActionResult Index()
+        public IActionResult Index()
         {
             ViewData["Message"] = "Liste des contacts";
 
-            var contact = new Models.Contact
+            List<Contact> contacts = new List<Contact>()
+            {
+                new Contact {Id = 1, Nom = "Mr", Prenom = "A"},
+                 new Contact {Id = 1, Nom = "Mr", Prenom = "B"}
+
+            };
+
+           
+            return View();
+        }
+
+        // GET: HomeController1/Details/5
+        [Route("details/{id:int}")]
+        public IActionResult Contact(int id)
+        {
+            var contact = new Contact
             {
                 Id = 1,
                 Nom = "Mr",
-                Prenom = ""
+                Prenom = "A"
             };
             return View(contact);
         }
 
-        // GET: HomeController1/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
         // GET: HomeController1/Create
-        public ActionResult Create()
+        [Route("ajouter")]
+        public IActionResult AjouterContact()
         {
             return View();
         }

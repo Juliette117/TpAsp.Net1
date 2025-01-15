@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\ajoutercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\ajoutercontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|c:\\users\\administrateur\\desktop\\dev\\webapplicationmvc\\webapplicationmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A03F6B-4D2D-4D1F-BC9B-AB47554BD513}|WebApplicationMvc\\WebApplicationMvc.csproj|solutionrelative:webapplicationmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplicationMvc\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T08:32:16.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "WebApplicationMvc\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:49:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AjouterContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml",
+              "RelativeToolTip": "WebApplicationMvc\\Views\\Contact\\AjouterContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T08:44:18.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "WebApplicationMvc\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:07:53.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationMvc\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T08:44:19.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:31:45.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Program.cs",
+              "RelativeToolTip": "WebApplicationMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:36:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Models\\Contact.cs",
+              "RelativeToolTip": "WebApplicationMvc\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:08:43.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationMvc\\Views\\Contact\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:48:21.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:47:48.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplicationMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:47:50.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationMvc\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\WebApplicationMvc\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplicationMvc\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T09:47:53.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
