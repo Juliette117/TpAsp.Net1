@@ -5,10 +5,20 @@ namespace TodoList.Models
 {
     public class Tache
     {
+        [Key]
         public int Id { get; set; }
+
         [Display(Name = "Tâches à faire")]
-        [Required(ErrorMessage = "Le nom de la tâche est obligatoire.")]
-        public string Titre { get; set; }
+        [Required(ErrorMessage = "Veuillez entre un titre")]
+        public string? Title { get; set; }
+
+        [StringLength(500)]
         public string? Description { get; set; }
+
+        public bool IsChecked { get; set; }
     }
+   
 }
+
+
+
