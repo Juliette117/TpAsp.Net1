@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CaisseEnregistreuse.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CaisseEnregistreuse.j9ed21pldp.bundle.scp.css"
+      "Id": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CashRegister.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CashRegister.7x3hl4up4l.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\wwwroot\\css\\site.css",
@@ -257,24 +257,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CaisseEnregistreuse.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CashRegister.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CaisseEnregistreuse.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CashRegister.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CaisseEnregistreuse.props",
-      "PackagePath": "build\\CaisseEnregistreuse.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CashRegister.props",
+      "PackagePath": "build\\CashRegister.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CaisseEnregistreuse.props",
-      "PackagePath": "buildMultiTargeting\\CaisseEnregistreuse.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CashRegister.props",
+      "PackagePath": "buildMultiTargeting\\CashRegister.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CaisseEnregistreuse.props",
-      "PackagePath": "buildTransitive\\CaisseEnregistreuse.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CashRegister.props",
+      "PackagePath": "buildTransitive\\CashRegister.props"
     }
   ],
   "ElementsToRemove": []

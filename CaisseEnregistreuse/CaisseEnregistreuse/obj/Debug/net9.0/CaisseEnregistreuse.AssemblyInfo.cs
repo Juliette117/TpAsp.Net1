@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaisseEnregistreuse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815b579bd4b567eae036888cb230fd33deee6a29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+118ef5e85cb3ee9fb8b632ddfb4f9499ddd21da9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaisseEnregistreuse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaisseEnregistreuse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
