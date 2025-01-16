@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CaisseEnregistreuse")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Caisse_Enregistreuse")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815b579bd4b567eae036888cb230fd33deee6a29")]
-[assembly: System.Reflection.AssemblyProductAttribute("CaisseEnregistreuse")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CaisseEnregistreuse")]
+[assembly: System.Reflection.AssemblyProductAttribute("Caisse_Enregistreuse")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Caisse_Enregistreuse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

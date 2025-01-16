@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\CaisseEnregistreuse.csproj",
-      "projectName": "CaisseEnregistreuse",
-      "projectPath": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\CaisseEnregistreuse.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\Caisse_Enregistreuse.csproj",
+      "projectName": "Caisse_Enregistreuse",
+      "projectPath": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\Caisse_Enregistreuse.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrateur\\Desktop\\Dev\\WebApplicationMvc\\CaisseEnregistreuse\\CaisseEnregistreuse\\obj\\",
       "projectStyle": "PackageReference",
